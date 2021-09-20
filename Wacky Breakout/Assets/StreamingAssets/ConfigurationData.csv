@@ -1,0 +1,15 @@
+ballImpulseForce,250
+paddleMoveUnitsPerSecond,20
+ballLifeTimeSeconds,20
+randomSpawnerMin,5
+randomSpawnerMax,10
+standardBlockPoints,10
+bonusBlockPoints,50
+pickupBlockPoints,20
+standardBlockProbability,55
+bonusBlockProbability,15
+pickupBlockProbability,30
+noOfBalls,5
+freezerEffectDuration,1
+speedupEffectDuration,3
+speedupFactor,1.5
